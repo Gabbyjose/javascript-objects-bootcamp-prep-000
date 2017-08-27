@@ -1,6 +1,7 @@
 var playlist = {
   Cindy: 'Girls just want to have fun',
-  Regina: 'Fidelity'
+  Regina: 'Fidelity',
+  Kanye: 'Gold Digger'
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
